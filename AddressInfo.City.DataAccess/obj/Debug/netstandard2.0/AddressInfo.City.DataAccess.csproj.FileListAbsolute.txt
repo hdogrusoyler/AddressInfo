@@ -1,0 +1,14 @@
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.City.DataAccess\bin\Debug\netstandard2.0\AddressInfo.City.DataAccess.deps.json
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.City.DataAccess\bin\Debug\netstandard2.0\AddressInfo.City.DataAccess.dll
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.City.DataAccess\bin\Debug\netstandard2.0\AddressInfo.City.DataAccess.pdb
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.City.DataAccess\bin\Debug\netstandard2.0\AddressInfo.City.Entities.dll
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.City.DataAccess\bin\Debug\netstandard2.0\AddressInfo.Core.dll
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.City.DataAccess\bin\Debug\netstandard2.0\AddressInfo.City.Entities.pdb
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.City.DataAccess\bin\Debug\netstandard2.0\AddressInfo.Core.pdb
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.City.DataAccess\obj\Debug\netstandard2.0\AddressInfo.City.DataAccess.csprojAssemblyReference.cache
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.City.DataAccess\obj\Debug\netstandard2.0\AddressInfo.City.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.City.DataAccess\obj\Debug\netstandard2.0\AddressInfo.City.DataAccess.AssemblyInfoInputs.cache
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.City.DataAccess\obj\Debug\netstandard2.0\AddressInfo.City.DataAccess.AssemblyInfo.cs
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.City.DataAccess\obj\Debug\netstandard2.0\AddressInfo.City.DataAccess.csproj.CopyComplete
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.City.DataAccess\obj\Debug\netstandard2.0\AddressInfo.City.DataAccess.dll
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.City.DataAccess\obj\Debug\netstandard2.0\AddressInfo.City.DataAccess.pdb

@@ -1,0 +1,12 @@
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.City.Entities\bin\Debug\netstandard2.0\AddressInfo.City.Entities.deps.json
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.City.Entities\bin\Debug\netstandard2.0\AddressInfo.City.Entities.dll
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.City.Entities\bin\Debug\netstandard2.0\AddressInfo.City.Entities.pdb
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.City.Entities\bin\Debug\netstandard2.0\AddressInfo.Core.dll
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.City.Entities\bin\Debug\netstandard2.0\AddressInfo.Core.pdb
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.City.Entities\obj\Debug\netstandard2.0\AddressInfo.City.Entities.csprojAssemblyReference.cache
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.City.Entities\obj\Debug\netstandard2.0\AddressInfo.City.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.City.Entities\obj\Debug\netstandard2.0\AddressInfo.City.Entities.AssemblyInfoInputs.cache
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.City.Entities\obj\Debug\netstandard2.0\AddressInfo.City.Entities.AssemblyInfo.cs
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.City.Entities\obj\Debug\netstandard2.0\AddressInfo.City.Entities.csproj.CopyComplete
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.City.Entities\obj\Debug\netstandard2.0\AddressInfo.City.Entities.dll
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.City.Entities\obj\Debug\netstandard2.0\AddressInfo.City.Entities.pdb

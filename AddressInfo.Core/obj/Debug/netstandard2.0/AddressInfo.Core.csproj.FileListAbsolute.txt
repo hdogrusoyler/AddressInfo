@@ -1,0 +1,9 @@
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.Core\bin\Debug\netstandard2.0\AddressInfo.Core.deps.json
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.Core\bin\Debug\netstandard2.0\AddressInfo.Core.dll
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.Core\bin\Debug\netstandard2.0\AddressInfo.Core.pdb
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.Core\obj\Debug\netstandard2.0\AddressInfo.Core.csprojAssemblyReference.cache
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.Core\obj\Debug\netstandard2.0\AddressInfo.Core.csproj.CoreCompileInputs.cache
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.Core\obj\Debug\netstandard2.0\AddressInfo.Core.AssemblyInfoInputs.cache
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.Core\obj\Debug\netstandard2.0\AddressInfo.Core.AssemblyInfo.cs
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.Core\obj\Debug\netstandard2.0\AddressInfo.Core.dll
+C:\Users\hus\source\repos\c\p\AddressInfo\AddressInfo.Core\obj\Debug\netstandard2.0\AddressInfo.Core.pdb
